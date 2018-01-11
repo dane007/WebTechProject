@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar {
+	font-size: 24px;
+}
+
+body {
+	background-image: url(../img/bg.jpg);
+	background-position: top center;
+	background-size: cover;
+	font-family: Cochin;
+  line-height: 1.42857143;
+  color: #333;
+}
+
+h1 {
+	font-size: 62px;
+}
+
+
+.container {
+	margin-top: 5%;
+}
+
+.rihlogo {
+	margin-bottom: 4%;
+}
+
+.bannerad {
+	margin-top: 12%;
+}
+
+.border1 {
+	border: 1px solid black;
+}
+
+.background {
+	background-image: url(../img/container.png);
+}
+
+.aboutBackground {
+	background-image: url(../img/aboutBackground.png);
+	height: 1100px;
+	padding: 32px;
+	margin-top: 20px;
+}
+
+img.img-thumbnail {
+	margin: -80px 0 0 20px;
+}
+
+.table-striped > tbody > tr {
+	background-color: #D3B2B5;
+}
+
+img.pull-left {
+	margin-right:1%;
+}
+
+.tabText {
+	margin-top: 1%;
+}
+
+footer {
+	background-color: #3C3C3C;
+	padding: .5% 2%;
+	color: grey;
+	margin: 30px 0;
+}
